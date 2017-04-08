@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="places">
+        <item>Proses Persiapan</item>
+        <item>Persiapan Hygienis Penyimpanan Makanan</item>
+        <item>Prinsip Penyimpanan Makanan</item>
+        <item>Penyimpanan Dingin</item>
+        <item>Penyimpanan Panas</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>
+           <br> Tips untuk mempertahankan zat gizi pada makanan yaitu : </br>
+<br>a. Pilihlah bahan makanan yang segar dengan kwalitas yang bagus. </br>
+<br>b. Untuk sayuran dan buah pilihlah yang bermutu dilihat dari warna, ukuran dan tekstur.</br>
+<br>c. Simpan buah dan sayur pada almari pendingin ( kecuali pisang hijau, kentang, dan jamur) untuk menghambat enzym yang bisa membuat buah dan sayuran kehilangan zat gizi. Enzym sangat aktif pada suhu yang hangat. </br>
+<br>d. Jangan menyimpan bahan makanan terlalu lama karena menyebabakan kehilangan zat gizi. Simpan makanan kaleng pada suhu rendah. </br>
+<br>e. Ketika menyimpan makanan tutup rapat untuk menurunkan kontak langsung dengan udara. </br>
+<br>f. Cuci sayuran secara cepat dan jangan merendam sayur dalam air. </br>
+<br>g. Saat memasak kentang atau syuran jangan kupas kulitnya karena sebagian zat gizi akan hilang ketika pengupasan dan pemotongan sayuran. Pada umumnya sebelum memasak adalah cara pengolahan yang bagus untuk mempertahankan zat gizi. Metoda ini cepat dan menggunakan sedikit air atau bahkan tidak menggunakan air sama sekali, pada waktu perebusan sayuran dengan menggunakan air yang banyak dan waktu yang lama akan banyak menghilangkan kandungan zat gizinya. </br>
+<br>h. Suhu penggorengan bisa merusak vitamin pada sayuran.</br>
+<br>i. Jangan pernah menggunakan baking soda untuk memperbaiki rupa sayuran karena membuat zat gizi pada sayuran hilang.</br>
+<br>j. Gunakan kaldu sayuran dan  daging untuk pembuatan sop. </br>
+<br>k. Persiapan makanan dengan serba tertutup sampai penyajian.</br>
+<br>l. Jangan memakai gelas tanpa corak karena cahaya bisa merusak ribovlafin yang terkandung didalamnya. Faktor yang bisa merusak vitamin dan sering merusak warna, aroma dan tekstur makanan. </br>
+<br>m. Kupas kulit pada buah-buahan seminim mungkin karena jika seluruh kulit dikupas banyak vitamin dan mineral yang hilang bersama kulit buah, karena vitamin dan mineral banyak tersimpan dibawah kulit buah-buahan. </br>
+<br>n. Mengukus cara pengolahan yang bagus untuk memperhatikan zat gizi. Metode ini cepat dan menggunakan sedikit air atau bahkan tidak menggunakan air sama sekali, pada perebusan sayuran dengan menggunakan air banyak dan waktu yang lama akan banyak menghilangkan kandungan zat gizinya. </br>
+        </item>
+
+        <item>
+            <br>Menurut Kep Menkes No.715/Menkes/SK/V/2003 tentang persyaratan hygiene sanitasi penyimpanan makanan terolah adalah: </br>
+<br>a. Penyimpanan makanan terolah sebaiknya tertutup dan disimpan pada suhu ±10ºC. </br>
+<br>b. Penyimpanan makanan jadi:</br>
+<br>1) Terlindung dari debu, bahan kimia berbahaya, serangga dan hewan. </br>
+<br>2) Makanan cepat busuk disimpan dalam suhu panas 65,5ºC atau lebih atau disimpan dalam suhu dingin 4ºC. </br>
+<br>Makanan cepat busuk untuk penggunaan dalam waktu lama (lebih dari 6 jam) disimpan dalam suhu -5ºC sampai -1ºC. </br>
+
+        </item>
+        <item>
+            <br>Prinsip dari tehnik penyimpanan makanan terutama ditujukan kepada:</br>
+<br>a. Mencegah pertumbuhan dan perkembangan bakteri latent. </br>
+<br>b. Mengawetkan makanan dan mengurangi pembusukan. </br>
+<br>Hal-hal lain yang perlu diperhatikan dalam penyimpanan makanan adalah: </br>
+<br>a. Makanan yang disimpan diberi tutup terutama makanan kaleng, yang telah dibuka atau hasil olahan dari dapur (cooking food). </br>
+<br>b. Lantai/meja yang digunakan untuk menyimpan makanan sebelumnya harus dibersihkan. </br>
+<br>c. Makanan tidak boleh disimpan dekat dengan saluran air limbah (selokan).</br>
+<br>d. Makanan yang disajikan sebelum diolah (timun, tomat) harus dicuci dengan air hangat lebih dahulu. </br>
+<br>e. Makanan yang dipak dengan karton jangan disimpan dekat air atau tempat yang basah. </br>
+
+        </item>
+        <item>
+            <br>Faktor-faktor yang mempengaruhi dalam penyimpanan dingin untuk makanan olahan. </br>
+            <br>1) Suhu </br>
+            <br>Berdasarkan klasifikasi dari F.G. Winanrno digolongkan menjadi 3 yaitu : </br>
+<br>a) Penyimpanan sejuk </br>
+<br>(1) antara 15-25ºC </br>
+<br>(2) untuk minuman keras, umbi-umbian, sayuran </br>
+<br>b) Pendinginan </br>
+<br>(1) pada suhu kurang dari 5,6ºC. </br>
+<br>(2) Dapat menghambat pertumbuhan mikroba-psikrofilik dan mencegah pertumbuhan mikroba patogen. </br>
+<br>(3) Botulinium tipe E dapat memproduksi racun pada suhu 3,3ºC. </br>
+<br>c) Penyimpanan beku </br>
+<br> Dengan penyelupan bahan kedalam refrigerant. </br>
+<br> Kontak langsung dengan refrigerant. </br>
+<br> Dengan menggunakan udara dingin (-17,8º sampai -34,4ºC) </br>
+
+        </item>
+        <item>
+           <br> Penyimpanan panas (Hot Storage) </br>
+<br>1) Fasilitas alat penyimpanan makanan panas harus ditempatkan pada rungan yang nyaman sehingga menjamin ketepatan suhu penyimpanan. </br>
+<br>2) Makanan yang disimpan tidak boleh mencapai suhu kritis (danger zone) 140ºF (60ºC), karena pada suhu tersebut memungkinkan pertumbuhan bakteri pengganggu. </br>
+
+        </item>
+
+    </string-array>
+
+    <array name="places_picture">
+        <item>@drawable/ic_info_outline_black_24dp</item>
+        <item>@drawable/ic_add_black_24dp</item>
+        <item>@drawable/ic_expired_24dp</item>
+
+    </array>
+</resources>

@@ -1,0 +1,71 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/kk"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/till"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/edtPurdate"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="Purchase Date (DD-MM-YYYY)"
+                android:inputType="datetime"
+                android:textSize="12sp" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/till2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/till">
+
+            <EditText
+                android:id="@+id/edtItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="Items Name"
+                android:inputType="textPersonName"
+                android:textSize="12sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/till3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/till2">
+
+            <EditText
+                android:id="@+id/edtExpdate"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="Expired Date (DD-MM-YYYY)"
+                android:inputType="datetime"
+                android:textSize="12sp" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@android:color/background_light"
+            android:fontFamily="monospace"
+            android:text="SAVE"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="14sp" />
+
+
+    </LinearLayout>
+</ScrollView>

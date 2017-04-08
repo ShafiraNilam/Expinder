@@ -1,0 +1,130 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Tips Penyimpanan Makanan dan Minuman"
+            android:textColor="@android:color/black"
+            android:textSize="20dp"
+            tools:fontFamily="sans-serif" />
+
+        <ImageView
+            android:id="@+id/gambarsatu"
+            android:layout_width="175dp"
+            android:layout_height="175dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/infosatu" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="PENYIMPANAN SEJUK"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            tools:fontFamily="sans-serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+1. antara 15-25ºC. \n
+2. untuk minuman keras, umbi-umbian, sayuran. \n
+"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif"
+            android:text="
+PENDINGINAN
+"
+            android:textColor="@android:color/black"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+1. pada suhu kurang dari 5,6ºC. \n
+2. Dapat menghambat pertumbuhan mikroba-psikrofilik dan mencegah pertumbuhan mikroba patogen. \n
+3. Botulinium tipe E dapat memproduksi racun pada suhu 3,3ºC. \n
+"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="
+PENYIMPANAN BEKU
+"
+            android:textColor="@android:color/black"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+1. Dengan penyelupan bahan kedalam refrigerant. \n
+2. Kontak langsung dengan refrigerant. \n
+3. Dengan menggunakan udara idngin (-17,8º sampai -34,4ºC). \n
+"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <ImageView
+            android:id="@+id/gambartiga"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/panas" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="
+PENYIMPANAN PANAS
+"
+            android:textColor="@android:color/black"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+1) Fasilitas alat penyimpanan makanan panas harus ditempatkan pada rungan yang nyaman sehingga menjamin ketepatan suhu penyimpanan.\n
+2) Makanan yang disimpan tidak boleh mencapai suhu kritis (danger zone) 140ºF (60ºC), karena pada suhu tersebut memungkinkan pertumbuhan bakteri pengganggu.\n
+"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+    </LinearLayout>
+
+
+</ScrollView>

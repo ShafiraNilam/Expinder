@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/navDaftar"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="Items List" />
+        <item
+            android:id="@+id/navKadaluarsa"
+            android:icon="@drawable/ic_expired_24dp"
+            android:title="Expired Item" />
+
+        <item
+            android:id="@+id/navInfo"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="Items Information" />
+
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/navAbout"
+                android:icon="@drawable/ic_group_black_24dp"
+                android:title="About App" />
+        </menu>
+    </item>
+</menu>

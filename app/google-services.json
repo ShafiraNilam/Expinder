@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "66498911062",
+    "firebase_url": "https://expinder-5387a.firebaseio.com",
+    "project_id": "expinder-5387a",
+    "storage_bucket": "expinder-5387a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66498911062:android:99d0a030f5eccc9e",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.project2.xirpl30717233235.expinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66498911062-p402q5tdmrtuejucikmgihesqu2emg9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.project2.xirpl30717233235.expinder",
+            "certificate_hash": "0ce4d11202fea8ae13d0533530332f2734e2860f"
+          }
+        },
+        {
+          "client_id": "66498911062-2t3tf9mqb7sk9ps94shb2tccbud8sijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTGDxbaozGET2HmREZuki6PYsXNPWrjvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66498911062-2t3tf9mqb7sk9ps94shb2tccbud8sijc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
