@@ -2,6 +2,7 @@
     android:id="@+id/recyclerView"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FFFFFF"
     android:clipToPadding="false"
     android:paddingBottom="16dp"
     android:paddingLeft="16dp"
@@ -15,88 +16,79 @@
         android:orientation="vertical">
 
         <ImageView
-            android:layout_width="250dp"
-            android:layout_height="250dp"
-            android:layout_gravity="center"
-            android:src="@mipmap/ic_launcher" />
-
-        <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fontFamily="sans-serif"
-            android:gravity="center"
-            android:text="
-            Dhea Ayu Anggraini \n" />
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp"
+            android:src="@mipmap/dheaku" />
+
 
         <ImageView
-            android:layout_width="250dp"
-            android:layout_height="250dp"
-            android:layout_gravity="center"
-            android:src="@drawable/mar1" />
-
-        <TextView
-            android:id="@+id/textView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fontFamily="sans-serif"
-            android:gravity="center"
-            android:text="
-            Marissa Nur Aini \n
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp"
+            android:src="@mipmap/marisaku" />
+
+
 " />
 
         <ImageView
-            android:layout_width="250dp"
-            android:layout_height="250dp"
-            android:layout_gravity="center"
-            android:src="@drawable/nab1" />
-
-        <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fontFamily="sans-serif"
-            android:gravity="center"
-            android:text="
-            Nabilla M Basharahil \n
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp"
+            android:src="@mipmap/nabilaku" />
+
+
 " />
 
         <ImageView
-            android:layout_width="250dp"
-            android:layout_height="250dp"
-            android:layout_gravity="center"
-            android:src="@drawable/selin1" />
-
-        <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fontFamily="sans-serif"
-            android:gravity="center"
-            android:text="Selina Kusmiawati \n
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp"
+            android:src="@mipmap/selinku" />
+
+
 " />
 
         <ImageView
 
-            android:layout_width="250dp"
-            android:layout_height="250dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
             android:layout_gravity="center"
-            android:src="@drawable/nilam1" />
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp"
+            android:src="@mipmap/nilamku" />
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fontFamily="sans-serif"
-            android:gravity="center"
-            android:text="
-            Shafira Nilamsari Murdowo \n
-" />
 
-        <TextView
+        " />
+
+
+        <ImageView
+
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fontFamily="sans-serif"
-            android:gravity="center"
-            android:text="
-            Thanks to Allah SWT || Telkom Schools Malang || Bapak Hendra WP || Stackoverflow || EXPERTO \n
-" />
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:src="@mipmap/jadiku" />
+
+
+        " />
 
 
     </LinearLayout>

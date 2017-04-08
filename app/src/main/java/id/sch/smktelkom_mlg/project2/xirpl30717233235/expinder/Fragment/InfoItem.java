@@ -24,7 +24,9 @@ public class InfoItem extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_info_item, container, false);
+        View v = inflater.inflate(R.layout.fragment_info_item, container, false);
+
+        return v;
 
     }
 

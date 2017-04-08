@@ -101,11 +101,6 @@ public class DaftarItem extends Fragment {
                                 startActivity(i);
                                 break;
                             case 1:
-                                Intent in = new Intent(getActivity().getApplicationContext(), UpdateItem.class);
-                                in.putExtra("item", selection);
-                                startActivity(in);
-                                break;
-                            case 2:
                                 SQLiteDatabase db = dbcenter.getWritableDatabase();
                                 db.execSQL("delete from item where item = '" + selection + "'");
                                 RefreshList();
