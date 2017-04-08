@@ -48,7 +48,7 @@
                 android:id="@+id/edtExpdate"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:hint="Expired Date (DD-MM-YYYY)"
+                android:hint="Expired Date (YYYY-MM-DD)"
                 android:inputType="datetime"
                 android:textSize="12sp" />
 
