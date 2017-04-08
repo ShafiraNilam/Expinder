@@ -89,7 +89,7 @@ public class DaftarItem extends Fragment {
         ListView01.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView arg0, View arg1, int arg2, long arg3) {
                 final String selection = daftar[arg2]; //.getItemAtPosition(arg2).toString();
-                final CharSequence[] dialogitem = {"See Item", "Update Item", "Delete Item"};
+                final CharSequence[] dialogitem = {"See Item", "Delete Item"};
                 AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
                 builder.setTitle("Options");
                 builder.setItems(dialogitem, new DialogInterface.OnClickListener() {
